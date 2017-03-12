@@ -1,12 +1,18 @@
 # irish-trad-music-generator
 
 Stacked LSTMを使ってケルト民族音楽のメロディを自動生成する。
+
 元ネタはこの記事。
 [The Infinite Irish Trad Session](https://highnoongmt.wordpress.com/2015/08/07/the-infinite-irish-trad-session/)
 この記事ではRNNを使っていたので、LSTMを代わりに使ったらどうなるかやってみた。
 
 こちらも同様にRNNだけど参考になる。
 [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
+
+## 実際にどういう曲が作れるか
+作成した曲をSoundCloudで公開中です。
+
+https://soundcloud.com/issei-mori-688064393/stacked-lstm
 
 ## TODO
 Chaotic Inspiration Algorithmと組み合わせる。
